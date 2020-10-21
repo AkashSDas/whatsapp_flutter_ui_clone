@@ -1,0 +1,8 @@
+# add this inside the <dict></dict> in ios/Runnder/Info.plist file
+
+<key>NSPhotoLibaryUsageDescription</key>
+<string>This app requires the access to the photo libary.</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>This app requires the access to the microphone.</string>
+<key>NSCameraUsageDescription</key>
+<string>This app requires the access to the camera.</string>
